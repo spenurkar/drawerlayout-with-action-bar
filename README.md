@@ -1,4 +1,4 @@
-learn-new-things
+drawerlayout-with-action-bar
 ================
 
-This project contains new things to learn. 
+Atest project for Drawer Layout with Action Bar pattern.
